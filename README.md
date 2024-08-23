@@ -1,2 +1,2 @@
-# livraria colaborativa - bookstore-digital
+# livraria colaborativa - bookstore-digital -ADAPTADO
 actividad implementación de proyectos
