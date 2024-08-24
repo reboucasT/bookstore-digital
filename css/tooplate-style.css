@@ -308,7 +308,9 @@ Template livraria tecinformatica
   -----------------------------------------*/
 
   #home {
-    background: url('../images/home-bg.jpg') no-repeat center center;
+    /* background: url('../images/home-bg.jpg') no-repeat center center; */
+    /* background: url('../images/home-virtual.jpg') no-repeat center center; */
+    background: url('../images/home-biblioteca-virtual.jpg') no-repeat center center;
     background-size: cover;
     vertical-align: middle;
     display: -webkit-box;
