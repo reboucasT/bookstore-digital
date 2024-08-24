@@ -1,2 +1,2 @@
-# livraria colaborativa - bookstore-digital - ADAPTADO
+# Livraria Digital Colaborativa Hostweb Rebouças - bookstore-digital-hostweb - ADAPTADO/tecinf
 actividad implementación de proyectos
