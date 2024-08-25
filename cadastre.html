@@ -18,7 +18,14 @@
             <label for="data_de_nascimento">Data de Nascimento:</label><br>
             <input type="text" size="25" placeholder="__/__/____">
          </div>
-
+         <h2>Foto</h2>
+         <img src="" alt="">
+         <label for="anexo imagem">Registre sua imagem :</label>
+         <div>
+             <input id="fileInput" type="file" style="display:none;" />
+             <input type="button" value="Upload New..." onclick="document.getElementById('fileInput').click();" class="botao"
+             />
+         </div>
          <div class="esquerda" id="">
             <label for="nome">Nome :</label><br>
             <input type="text" size="35" placeholder="primeiro nome">
